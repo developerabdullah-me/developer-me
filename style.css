@@ -29,7 +29,7 @@ a {
     margin: 41px auto;
     display: block;
     margin-top: 1px auto;
-    background-color:orange;
+    background-image: linear-gradient(red, yellow);
     width: 117px;
     padding: 10px;
     font-weight: 600;
